@@ -1,0 +1,1 @@
+A full-stack web application that stores professional profiles and uses cloud databases to track applications, salaries, and interview statuses in real-time. It replaces messy spreadsheets with an automated dashboard that pulls live job openings via APIs and manages the entire recruitment lifecycle.
